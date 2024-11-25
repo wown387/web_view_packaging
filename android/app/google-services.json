@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "837716873067",
+    "project_id": "allotter-2c7f7",
+    "storage_bucket": "allotter-2c7f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837716873067:android:a4ba8c390e227be3b2c62e",
+        "android_client_info": {
+          "package_name": "com.allotter.apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz8_fcDcgZ0sYobJK_8fYGDt7a-DUHl2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837716873067:android:963e30589bd7529db2c62e",
+        "android_client_info": {
+          "package_name": "com.example.web_view_packaging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz8_fcDcgZ0sYobJK_8fYGDt7a-DUHl2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837716873067:android:7f2ecf08fefb8344b2c62e",
+        "android_client_info": {
+          "package_name": "com.nail.owner.apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz8_fcDcgZ0sYobJK_8fYGDt7a-DUHl2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
